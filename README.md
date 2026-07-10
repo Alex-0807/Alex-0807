@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Alex-0807/Alex-0807** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Alex👋
 
-Here are some ideas to get you started:
+Graduate full-stack developer based in Adelaide, Australia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build web applications using React, Next.js, TypeScript, Node.js,
+Python/Django and PostgreSQL. My recent work includes Stripe payment
+workflows, AWS deployments and RAG-based AI applications.
+
+## Featured Projects
+
+- ClinicDesk AI — RAG-based admin assistant for allied health clinics
+- Adelaide Neighbourhood Hub — Location-based Adelaide services platform
+
+
+## Current Focus
+
+- Tool-using AI applications
+- LangChain and MCP
+- Testing and production-ready backend design
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/alex-xu-203559327/)
+- alex87.dev@gmail.com
